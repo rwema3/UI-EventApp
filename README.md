@@ -6,10 +6,13 @@ Installation
 flutter pub get
 ```
 Usage 
-
 ```
 flutter run
 ```
+### Created & Maintained By
+ >https://github.com/rwema3
 
-Copyright 2022, Rwema
+> You can also nominate me for Github Star developer program
+> https://stars.github.com/nominate
+
 ![asd](https://user-images.githubusercontent.com/52289151/152301783-a3c380ad-0bb0-4aff-9a67-b928e4725625.JPG)
