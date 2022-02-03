@@ -4,7 +4,7 @@ import 'package:uvento/home.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of y 
+  // This widget is the root of 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
