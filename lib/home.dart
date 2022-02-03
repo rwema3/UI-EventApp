@@ -21,7 +21,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   void initState() {
-    // TODO: implemen
+    // TODO: implem
     super.initState();
     dates = getDates();
     eventsType = getEventTypes();
