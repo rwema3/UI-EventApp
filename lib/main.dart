@@ -4,7 +4,7 @@ import 'package:uvento/home.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  // This 
+  // Thi
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
