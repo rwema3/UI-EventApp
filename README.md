@@ -10,7 +10,7 @@ Usage
 flutter run
 ```
 ### Created & Maintained By
- > ## Bagirisshya Rwema Dominique | @rwema3
+ > ## Bagirishya Rwema Dominique | @rwema3
 > You can also nominate me for Github Star developer program
 
 > https://stars.github.com/nominate
