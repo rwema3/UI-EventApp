@@ -7,7 +7,7 @@ flutter pub get
 ```
 Usage 
 ```
-flutter run
+type: flutter run
 ```
 ### Created & Maintained By
  > ## Bagirishya Rwema Dominique | @rwema3
